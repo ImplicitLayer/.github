@@ -11,31 +11,22 @@ Our technology can **identify market trends, analyze financial risk, build algor
 **📊 Financial analysis and forecasting**
 
 * Time series analysis and stock price prediction
-  
 * Risk modeling (VaR, CVaR, GARCH)
-  
 * Investment portfolio optimization (MPT, Black-Litterman)
-  
 * Algorithmic trading and strategy backtesting
 
 **🧠 Machine learning in finance**
 
 * Automated model selection (AutoML)
-  
 * Deep learning (LSTM, Transformer, GANs)
-  
 * Reinforcement Learning
-  
 * Interpretive AI for model explainability
 
 **📜 Natural Language Processing (NLP) in Finance**
 
 * News and Social Media Analysis (Sentiment Analysis)
-  
 * Classification and clustering of financial documents
-  
 * Named Entity Recognition
-  
 * Generating financial reports and forecasts with LLM (Large Language Models)
 
 ## Our technologies
