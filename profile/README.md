@@ -36,7 +36,7 @@ Our technology can **identify market trends, analyze financial risk, build algor
 ## Our technologies
 
 <div align="center">
-  <img height="450" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+  <img height="450" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzNjY4NTQsIm5iZiI6MTczOTM2NjU1NCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEyVDEzMjIzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5MDY0NjcxNTZiMzI4N2JlMjE3MTBlYTI3OTYxOGVjZmYzMDk3ODU1MGJmMTM3M2Y3MjBlZjMxNzU0MWJmMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.BPTuKxQLP-VkMv4B6cm7vRJQHl1gfIfk0RNrYdBjlfM"  />
 </div>
 
 🔹 **Programming languages:** Python, R
