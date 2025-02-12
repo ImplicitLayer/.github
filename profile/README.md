@@ -2,8 +2,6 @@
 
 **ImplicitLayer** is a Data Science and Machine Learning company developing intelligent solutions for financial analysis and Natural Language Processing (NLP).
 
-We use **classical methods, deep neural networks, reinforcement learning, statistical modeling, and automated ML systems** to help our clients make informed data-driven decisions.
-
 Our technology can **identify market trends, analyze financial risk, build algorithmic strategies and extract useful information from textual data** such as news, reports and social media.
 
 <p align="center">
@@ -39,17 +37,7 @@ Our technology can **identify market trends, analyze financial risk, build algor
   <img height="450" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzNjY4NTQsIm5iZiI6MTczOTM2NjU1NCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEyVDEzMjIzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5MDY0NjcxNTZiMzI4N2JlMjE3MTBlYTI3OTYxOGVjZmYzMDk3ODU1MGJmMTM3M2Y3MjBlZjMxNzU0MWJmMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.BPTuKxQLP-VkMv4B6cm7vRJQHl1gfIfk0RNrYdBjlfM"  />
 </div>
 
-🔹 **Programming languages:** Python, R
-
-🔹 **Frameworks:** TensorFlow, PyTorch, Scikit-learn, XGBoost
-
-🔹 **Big Data & Cloud:** Apache Spark, Google Cloud
-
-🔹 **NLP models:** BERT, GPT, T5, Transformer-based solutions
-
-🔹 **Databases:** PostgreSQL, MongoDB
-
-🔹 **Trading algorithms:** Reinforcement Learning, Market-Making, Statistical Arbitrage
+We use cutting-edge technologies in **ML, Data Science and NLP**, but not limited to them - we are constantly exploring new methods. We use **deep neural networks, statistical modeling, reinforcement learning and big data**. We actively develop **hybrid AI models**, combining classical approaches with neural networks for high accuracy and interpretability. Our goal is not just to follow trends, but to **find the best solutions for business**.
 
 ## Our services
 
