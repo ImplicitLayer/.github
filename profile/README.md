@@ -1,4 +1,4 @@
-# ImplicitLayer 🚀
+<h1 align="center"> ImplicitLayer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 **ImplicitLayer** is a Data Science and Machine Learning company developing intelligent solutions for financial analysis and Natural Language Processing (NLP).
 
@@ -6,19 +6,23 @@ We use **classical methods, deep neural networks, reinforcement learning, statis
 
 Our technology can **identify market trends, analyze financial risk, build algorithmic strategies and extract useful information from textual data** such as news, reports and social media.
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=%20Data+Analysis%20|%20Machine+Learning%20;Financial+analysis+and+forecasting;NLP+in+Finance&center=true&width=500&height=50"></a>
+</p>
+
 ## Development directions
 
 **📊 Financial analysis and forecasting**
 
-* Time series analysis and stock price prediction
-* Risk modeling (VaR, CVaR, GARCH)
-* Investment portfolio optimization (MPT, Black-Litterman)
+* Time series analysis
+* Risk modeling
+* Investment portfolio optimization
 * Algorithmic trading and strategy backtesting
 
 **🧠 Machine learning in finance**
 
-* Automated model selection (AutoML)
-* Deep learning (LSTM, Transformer, GANs)
+* Automated model selection 
+* Deep learning 
 * Reinforcement Learning
 * Interpretive AI for model explainability
 
@@ -31,21 +35,23 @@ Our technology can **identify market trends, analyze financial risk, build algor
 
 ## Our technologies
 
-🔹 **Programming languages:** Python, R, C++
+<div align="center">
+  <img height="450" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"  />
+</div>
+
+🔹 **Programming languages:** Python, R
 
 🔹 **Frameworks:** TensorFlow, PyTorch, Scikit-learn, XGBoost
 
-🔹 **Big Data & Cloud:** Apache Spark, AWS, Google Cloud
+🔹 **Big Data & Cloud:** Apache Spark, Google Cloud
 
 🔹 **NLP models:** BERT, GPT, T5, Transformer-based solutions
 
-🔹 **Databases:** PostgreSQL, MongoDB, ClickHouse
+🔹 **Databases:** PostgreSQL, MongoDB
 
 🔹 **Trading algorithms:** Reinforcement Learning, Market-Making, Statistical Arbitrage
 
 ## Our services
-
-**💡 Creation of automated reports based on ML**
 
 **🔍 Development of custom ML solutions**
 
@@ -57,12 +63,15 @@ Our technology can **identify market trends, analyze financial risk, build algor
 
 ## Contacts
 
-📩 Email: burenok023@gmail.com
+<div align="left">
+  <a href="mailto:burenok023@gmail.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
 
-🌐 Telegram: @artemburenok
-
-
-
+  <a href="https://t.me/artemburenok" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+</div>
 
 
 
