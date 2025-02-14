@@ -4,11 +4,19 @@
 
 Our technology can **identify market trends, analyze financial risk, build algorithmic strategies and extract useful information from textual data** such as news, reports and social media.
 
+<div align="center">
+  <img height="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
+</div>
+
+## Our technologies
+
+We use cutting-edge technologies in **ML, Data Science and NLP**, but not limited to them - we are constantly exploring new methods. We use **deep neural networks, statistical modeling, reinforcement learning and big data**. We actively develop **hybrid AI models**, combining classical approaches with neural networks for high accuracy and interpretability. Our goal is not just to follow trends, but to **find the best solutions for business**.
+
+## Development directions
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=%20Data+Analysis%20|%20Machine+Learning%20;Financial+analysis+and+forecasting;NLP+in+Finance&center=true&width=500&height=50"></a>
 </p>
-
-## Development directions
 
 **📊 Financial analysis and forecasting**
 
@@ -30,16 +38,6 @@ Our technology can **identify market trends, analyze financial risk, build algor
 * Classification and clustering of financial documents
 * Named Entity Recognition
 * Generating financial reports and forecasts with LLM (Large Language Models)
-
-## Our technologies
-
-<div align="center">
-  <img height="450" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzkzNjY4NTQsIm5iZiI6MTczOTM2NjU1NCwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjEyVDEzMjIzNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5MDY0NjcxNTZiMzI4N2JlMjE3MTBlYTI3OTYxOGVjZmYzMDk3ODU1MGJmMTM3M2Y3MjBlZjMxNzU0MWJmMzImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.BPTuKxQLP-VkMv4B6cm7vRJQHl1gfIfk0RNrYdBjlfM"  />
-</div>
-
-</br>
-
-We use cutting-edge technologies in **ML, Data Science and NLP**, but not limited to them - we are constantly exploring new methods. We use **deep neural networks, statistical modeling, reinforcement learning and big data**. We actively develop **hybrid AI models**, combining classical approaches with neural networks for high accuracy and interpretability. Our goal is not just to follow trends, but to **find the best solutions for business**.
 
 ## Our services
 
