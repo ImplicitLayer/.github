@@ -5,7 +5,7 @@
 Our technology can **identify market trends, analyze financial risk, build algorithmic strategies and extract useful information from textual data** such as news, reports and social media.
 
 <div align="center">
-  <img height="400" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
+  <img height="450rem" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
 </div>
 
 ## Our technologies
