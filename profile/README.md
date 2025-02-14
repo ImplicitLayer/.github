@@ -4,9 +4,7 @@
 
 Our technology can **identify market trends, analyze financial risk, build algorithmic strategies and extract useful information from textual data** such as news, reports and social media.
 
-<div align="center">
-  <img height="450rem" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif"  />
-</div>
+![](https://user-images.githubusercontent.com/124924248/218569391-b0d95c73-aa78-48e9-8c05-8913daeff8f7.gif)
 
 ## Our technologies
 
@@ -15,7 +13,7 @@ We use cutting-edge technologies in **ML, Data Science and NLP**, but not limite
 ## Development directions
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=%20Data+Analysis%20|%20Machine+Learning%20;Financial+analysis+and+forecasting;NLP+in+Finance&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=%20Data+Analysis%20|%20Machine+Learning%20;Financial+analysis+and+forecasting;Natural+Language+Processing+in+Finance&center=true&width=500&height=50"></a>
 </p>
 
 **📊 Financial analysis and forecasting**
