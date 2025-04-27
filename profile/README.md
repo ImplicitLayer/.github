@@ -2,8 +2,6 @@
 
 **ImplicitLayer** is a Data Science and Machine Learning company developing intelligent solutions for financial analysis and Natural Language Processing (NLP).
 
-Our technology can **identify market trends, analyze financial risk, build algorithmic strategies and extract useful information from textual data** such as news, reports and social media.
-
 ![](https://user-images.githubusercontent.com/124924248/218569391-b0d95c73-aa78-48e9-8c05-8913daeff8f7.gif)
 
 ## Our technologies
